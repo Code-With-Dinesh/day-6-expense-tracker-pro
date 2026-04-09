@@ -1,2 +1,17 @@
-# day-6-expense-tracker-pro
-A professional expense tracker application built using HTML, CSS, and JavaScript that allows users to add income and expenses, automatically calculates balance, and stores data using local storage with a modern animated UI.
+# 💰 Expense Tracker
+
+A professional expense tracker built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+
+- Add income and expenses
+- Automatic balance calculation
+- Delete transactions
+- Local storage support
+- Clean modern UI
+
+## 🛠️ Tech Used
+
+- HTML
+- CSS
+- JavaScript

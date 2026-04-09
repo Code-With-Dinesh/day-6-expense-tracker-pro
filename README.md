@@ -27,4 +27,4 @@ A professional Expense Tracker application built using HTML, CSS, and JavaScript
 ![Expense Tracker](screenshot.png)
 
 ## 🌐 Live Demo
-(Add your GitHub Pages link here)
+(https://code-with-dinesh.github.io/day-6-expense-tracker-pro/)

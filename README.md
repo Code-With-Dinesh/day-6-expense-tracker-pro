@@ -24,7 +24,7 @@ A professional Expense Tracker application built using HTML, CSS, and JavaScript
 - JavaScript (DOM, Local Storage)
 
 ## 📸 Preview
-(Add screenshot here)
+![Expense Tracker](screenshot.png)
 
 ## 🌐 Live Demo
 (Add your GitHub Pages link here)

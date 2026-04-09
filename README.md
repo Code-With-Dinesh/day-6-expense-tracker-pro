@@ -1,17 +1,30 @@
-# 💰 Expense Tracker
+# 💰 Expense Tracker Pro
 
-A professional expense tracker built using HTML, CSS, and JavaScript.
+A professional Expense Tracker application built using HTML, CSS, and JavaScript.
 
 ## 🚀 Features
-
-- Add income and expenses
+- Add income and expense transactions
 - Automatic balance calculation
+- Separate income and expense tracking
 - Delete transactions
-- Local storage support
-- Clean modern UI
+- Data stored using Local Storage
+- Modern animated UI with glassmorphism design
 
-## 🛠️ Tech Used
+## 🧠 How It Works
+- Users can add transactions with type (income/expense)
+- The app calculates:
+  - Total Income
+  - Total Expense
+  - Remaining Balance
+- Data is stored in browser local storage for persistence
 
+## 🛠️ Tech Stack
 - HTML
-- CSS
-- JavaScript
+- CSS (Animations + Glass UI)
+- JavaScript (DOM, Local Storage)
+
+## 📸 Preview
+(Add screenshot here)
+
+## 🌐 Live Demo
+(Add your GitHub Pages link here)
